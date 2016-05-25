@@ -1,4 +1,4 @@
 [submodule "tool/chibios/chibios"]
 	path = tool/chibios/chibios
 	url = git@github.com:ChibiOS/ChibiOS.git
-	branch = stable_16.1.x
+	branch = master
